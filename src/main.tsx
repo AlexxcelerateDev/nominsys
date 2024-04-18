@@ -27,7 +27,7 @@ import Empresa from "./pages/Configuracion/Empresa.tsx";
 
 const router = createBrowserRouter([
     {
-        path: "/",
+        path: "/nominsys",
         element: <LoginPage />,
     },
     {
